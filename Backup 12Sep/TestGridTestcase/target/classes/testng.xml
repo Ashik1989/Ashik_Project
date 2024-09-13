@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+    <test name="TestGrid_Tests">
+        <classes>
+            <class name="org.example.dedicatedTGFeatures"/>
+            <class name="org.example.accountLogin"/>
+            <class name="org.example.testgridTests"/>
+            <class name="org.example.devicecloudStatus"/>
+        </classes>
+    </test>
+</suite>
